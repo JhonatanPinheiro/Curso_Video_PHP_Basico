@@ -25,3 +25,14 @@ MÓDULO           $a = $a % $b    OU $a %= $b
 
 CONCATENAÇÃO    $a = $a . $b    OU $a  .= $b
 
+
+Operadores de  Incremento
+
+PRÉ-INCREMENTO     $a = $a + 1                ++$a
+
+PÓS-INCREMENTO     $a = $a + 1                $a++
+
+PRÉ-DECREMENTO     $a = $a - 1                --$a
+
+PÓS-INCREMENTO     $a = $a - 1                $a--
+
